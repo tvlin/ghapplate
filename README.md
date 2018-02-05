@@ -18,7 +18,7 @@ Open http://webapplate.github.io/ghapplate to see the basic looks and feel.
 
 Go to https://github.com/webapplate/ghapplate, click 'fork' button to fork the template to your repository.
 
-## How to use ghapplate
+## How to see ghapplate
 
 Go to http://tvlin.github.io/ghapplate That is all. :)
 

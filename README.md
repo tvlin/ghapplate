@@ -20,7 +20,7 @@ Go to https://github.com/webapplate/ghapplate, click 'fork' button to fork the t
 
 ## How to use ghapplate
 
-Go to http://tvlin.github.io/ghapplate 
+Go to http://tvlin.github.io/ghapplate That is all. :)
 
 ## How to create multiple forks of a GitHub repo?
 

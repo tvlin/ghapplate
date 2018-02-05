@@ -3,8 +3,8 @@
     "description": "Web App Description",
     "version": "1.0.0",
     "developer": {
-        "name": "Your Name",
-        "url": "https://github.com/gasolin/webapplate"
+        "name": "T V LIN",
+        "url": "https://github.com/tvlin/webapplate"
     },
     "icons":{
         "60": "/ghapplate/public/style/icons/apple-touch-icon-precomposed.png",
